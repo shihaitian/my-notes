@@ -1,11 +1,11 @@
 #妈呀，真的是从零开始，之前只用过wp，根本不知道flask是啥，文档给我看哭了，还是自己总结一下：
 
-1 语言和工具选择
-前端：HTML，CSS，JavaScript
-后端：Python（ajax，Flask，json）
-//原来这也能做后端
+1 语言和工具选择<br/>
+前端：HTML，CSS，JavaScript<br/>
+后端：Python（ajax，Flask，json）<br/>
+//原来这也能做后端<br/>
 
-2 文件路径结构
+2 文件路径结构<br/>
 TEST/（项目名）
   material/
   src/
